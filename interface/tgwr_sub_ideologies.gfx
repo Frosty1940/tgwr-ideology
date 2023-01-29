@@ -1,0 +1,14 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_ideology_anarchist_communism"
+		texturefile = "gfx/interface/ideologies/anarchist_communism.png"
+	}
+	spriteType = {
+		name = "GFX_ideology_authoritarian_democracy"
+		texturefile = "gfx/interface/ideologies/authoritarian_democracy.png"
+	}
+	spriteType = {
+		name = "GFX_ideology_oligarchism"
+		texturefile = "gfx/interface/ideologies/oligarchism.png"
+	}
+}
