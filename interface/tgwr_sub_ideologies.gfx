@@ -1,7 +1,7 @@
 spriteTypes = {
 	spriteType = {
-		name = "GFX_ideology_anarchist_communism"
-		texturefile = "gfx/interface/ideologies/anarchist_communism.png"
+		name = "GFX_ideology_revolutionary_nationalism"
+		texturefile = "gfx/interface/ideologies/revolutionary_nationalism.png"
 	}
 	spriteType = {
 		name = "GFX_ideology_authoritarian_democracy"
@@ -10,5 +10,19 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_ideology_oligarchism"
 		texturefile = "gfx/interface/ideologies/oligarchism.png"
+	}
+	spriteType = {
+		name = "GFX_ideology_religious_communism"
+		texturefile = "gfx/interface/ideologies/religious_communism.png"
+	}
+
+	#country specific
+	spriteType = {
+		name = "GFX_ideology_MON_religious_communism"
+		texturefile = "gfx/interface/ideologies/religious_communism_buddhism.png"
+	}
+	spriteType = {
+		name = "GFX_ideology_TAN_religious_communism"
+		texturefile = "gfx/interface/ideologies/religious_communism_buddhism.png"
 	}
 }
