@@ -8,7 +8,19 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/authoritarian_democracy.png"
 	}
 	spriteType = {
-		name = "GFX_ideology_oligarchism"
+		name = "GFX_ideology_warlordism"
+		texturefile = "gfx/interface/ideologies/authoritarian_democracy.png"
+	}
+	spriteType = {
+		name = "GFX_ideology_civilian_dictatorship"
+		texturefile = "gfx/interface/ideologies/oligarchism.png"
+	}
+	spriteType = {
+		name = "GFX_ideology_personalistic_dictatorship"
+		texturefile = "gfx/interface/ideologies/oligarchism.png"
+	}
+	spriteType = {
+		name = "GFX_ideology_colonial_government"
 		texturefile = "gfx/interface/ideologies/oligarchism.png"
 	}
 	spriteType = {
