@@ -27,6 +27,10 @@ spriteTypes = {
 		name = "GFX_ideology_religious_communism"
 		texturefile = "gfx/interface/ideologies/religious_communism.png"
 	}
+	spriteType = {
+		name = "GFX_ideology_reactionism"
+		texturefile = "gfx/interface/ideologies/despotism.png"
+	}
 
 	#country specific
 	spriteType = {
